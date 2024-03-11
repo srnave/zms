@@ -9,6 +9,9 @@ DONE BY:
 
 RECOMMENDED NODEJS VERSION v16.14.0
 
+Create zoo database
+and import the zoo.sql file into it
+
 Admin Login credentials
 
 Username:admin@gmail.com
